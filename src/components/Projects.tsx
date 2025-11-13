@@ -142,7 +142,7 @@ export function Projects() {
                   </div>
 
                   <h3 className="text-2xl mb-4 text-[#00BFA6]">{project.title}</h3>
-                  <p className="text-gray-400 mb-6 flex-grow">{project.description}</p>
+                  <p className="text-gray-400 mb-6 flex-grow leading-relaxed">{project.description}</p>
 
                   <div className="flex flex-wrap gap-2">
                     {project.tech.map((tech, i) => (
