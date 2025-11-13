@@ -126,10 +126,6 @@ The application is configured for easy deployment on static hosting platforms:
 - **Vercel**: Automatic deployment from GitHub with zero configuration
 - **Netlify**: Drag-and-drop build folder or connect repository
 
-## 🎨 Design Inspiration
-
-This portfolio is built from the "Build Digital Developer Portfolio" Figma design available at:
-https://www.figma.com/design/CADfEp2xHTUG0zte5enXLc/Build-Digital-Developer-Portfolio
 
 ## 📞 Contact
 
